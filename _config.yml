@@ -1,0 +1,60 @@
+# SITE CONFIGURATION
+title: Nippotica
+description: Deeptech Solutions, Real-World Impact.
+url: "https://www.nippotica.com"
+
+# SEO PLUGIN
+social:
+  name: Nippotica
+
+# THEME SETTINGS
+navigation: # Navigation links
+  - {name: 'Home', link: '/'}
+  - {name: 'About', link: '/about'}
+  - {name: 'Privacy', link: '/privacy'}
+  - {name: 'Contact', link: '/contact'}
+  - {name: '会社情報', link: '/japanese'}
+
+tagline: >
+  Deeptech Ventures
+
+hero_img: posts/nippotica_hero.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+
+email: info@nippotica.com # email for form submission
+
+# twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
+# github_username:  janczizikow # replace with your_github_username or comment to remove link from footer
+# instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
+
+# google_tag_manager: GTM-XXXXXXX # Uncomment to enable GTM. Replace GTM-XXXXXXX with your GTM container ID
+
+service_worker: false
+
+# BUILD SETTINGS
+markdown: kramdown
+kramdown:
+  input: GFM
+highlighter: rouge # or pygments or null
+# theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
+exclude:
+  - README.md
+  - node_modules
+  - script
+  - package.json
+  - package-lock.json
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - npm-debug.log
+  - gulpfile.js
+  - sleek.jpg
+
+include: ['_pages']
+permalink: /:title/
+
+# compress_html:
+#   clippings: all
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
