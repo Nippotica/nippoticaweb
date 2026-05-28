@@ -16,7 +16,7 @@ navigation: # Navigation links
   - {name: '会社情報', link: '/japanese'}
 
 tagline: >
-  We turn advanced research into market-ready deeptech companies.
+  「ディープテックの力を世界へ」 We turn research into market-ready ventures
 
 hero_img: posts/nippotica_hero.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 

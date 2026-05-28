@@ -6,7 +6,9 @@ mathjax: true
 categories: Deeptech
 ---
 
-Nippotica is a deeptech venture builder. We turn advanced research into market-ready solutions. Each venture originates within Nippotica and is launched as an independent company once it demonstrates market traction and team readiness.
+## Nippotica is a deeptech venture builder
+
+We turn advanced research into market-ready solutions. Each venture originates within Nippotica and is launched as an independent company once it demonstrates market traction and team readiness.
 
 ## Commercializing Deeptech
 
