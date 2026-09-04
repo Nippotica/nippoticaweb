@@ -52,7 +52,7 @@ When key milestones are reached, the venture becomes a fully owned subsidiary. T
 
 Deeptech Ventures: An Entrepreneurial Guide by [Kambiz Homayounfar](https://www.linkedin.com/in/kambiz-homayounfar-b379a01ba/) (Nippotica Media, 2025) — a field guide for scientists and engineers turning research-based technologies into real businesses. 
 
-<a href="https://www.lulu.com/shop/kambiz-homayounfar-and-daijiro-nishi/deeptech-ventures/paperback/product-q68eqyw.html" target="_blank" class="btn btn-primary">Buy it online</a>
+<a href="https://www.amazon.com/dp/4911671009" target="_blank" class="btn btn-primary">On Amazon</a>
 
 [Download Preview](/assets/DeeptechVentures_Preview.pdf)
 
